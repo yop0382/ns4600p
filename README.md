@@ -320,6 +320,7 @@ Back to Business :!!:
    ## Credz
  
  - Special Thanks to my friend Hikage (f****@!! network cable)
+ - Mr.C for serial / ttl usb
  - https://saturn.ffzg.hr/rot13/index.cgi?promise_smartstor
  - https://github.com/alexeicolin/javelin#nfs-boot-first-stage
  - http://jamie.lentin.co.uk/devices/dlink-dns325/replacing-firmware/
